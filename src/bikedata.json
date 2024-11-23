@@ -1,0 +1,129 @@
+{
+  "Data": [
+    {
+      "id": "0",
+      "image": "https://imgd.aeplcdn.com/370x208/n/cw/ec/124013/hunter-350-right-side-view-5.png?isig=0&q=80",
+      "companey": "Royal Enfield Hunter 350",
+      "bike_no": 1,
+      "rate": 50,
+      "avaiable": 4,
+      "total_bikes": 4
+    },
+    {
+      "id": "1",
+      "image": "https://imgd.aeplcdn.com/370x208/n/cw/ec/49656/continental-gt-right-side-view-12.png?isig=0&q=80",
+      "companey": "Royal Enfield Continental GT 650",
+      "bike_no": 2,
+      "rate": 80,
+      "avaiable": 3,
+      "total_bikes": 3
+    },
+    {
+      "id": "2",
+      "image": "https://imgd.aeplcdn.com/370x208/n/cw/ec/51245/meteor-350-right-side-view-10.png?isig=0&q=80",
+      "companey": " Royal Enfield Meteor 350",
+      "bike_no": 3,
+      "rate": 90,
+      "avaiable": 4,
+      "total_bikes": 4
+    },
+    {
+      "id": "3",
+      "image": "https://imgd.aeplcdn.com/370x208/n/cw/ec/108885/super-meteor-650-right-side-view-6.png?isig=0&q=80",
+      "companey": "Royal Enfield Super Meteor 650",
+      "bike_no": 4,
+      "rate": 45,
+      "avaiable": 3,
+      "total_bikes": 3
+    },
+    {
+      "id": "4",
+      "image": "https://imgd.aeplcdn.com/370x208/n/cw/ec/49657/interceptor-right-side-view-13.png?isig=0&q=80",
+      "companey": " Royal Enfield Continental GT 450",
+      "bike_no": 5,
+      "rate": 40,
+      "avaiable": 2,
+      "total_bikes": 2
+    },
+    {
+      "id": "5",
+      "image": "https://imgd.aeplcdn.com/370x208/n/cw/ec/99489/scram-411-right-side-view-13.png?isig=0&q=80",
+      "companey": "Royal Enfield Interceptor 650",
+      "bike_no": 6,
+      "rate": 50,
+      "avaiable": 5,
+      "total_bikes": 5
+    },
+    {
+      "id": "6",
+      "image": "https://imgd.aeplcdn.com/370x208/n/cw/ec/127499/bullet-right-side-view-13.png?isig=0&q=80",
+      "companey": "Royal Enfield Scram 411",
+      "bike_no": 7,
+      "rate": 75,
+      "avaiable": 2,
+      "total_bikes": 2
+    },
+    {
+      "id": "7",
+      "image": "https://imgd.aeplcdn.com/370x208/n/cw/ec/165367/shotgun-650-right-side-view-4.png?isig=0&q=80",
+      "companey": "Royal Enfield Bullet 350",
+      "bike_no": 8,
+      "rate": 90,
+      "avaiable": 3,
+      "total_bikes": 3
+    },
+    {
+      "id": "8",
+      "image": "https://imgd.aeplcdn.com/370x208/n/cw/ec/110431/himalayan-right-side-view-6.png?isig=0&q=80",
+      "companey": "Royal Enfield Himalayan 450",
+      "bike_no": 9,
+      "rate": 75,
+      "avaiable": 1,
+      "total_bikes": 1
+    },
+    {
+      "id": "9",
+      "image": "https://imgd.aeplcdn.com/370x208/n/cw/ec/138841/classic-650-right-side-view.jpeg?isig=0&q=80",
+      "companey": "Royal Enfield Classic 650",
+      "bike_no": 10,
+      "rate": 90,
+      "avaiable": 1,
+      "total_bikes": 1
+    }
+  ],
+  "posts": [
+    {
+      "id": "fLJeLwUzcwmv8rRiUcb2k",
+      "name": "dineshkumar",
+      "phone": "7075075715",
+      "bike_no": "1",
+      "pickup": "2024-11-23T14:09",
+      "Drop_off": "2024-11-24T14:09",
+      "Total_Amount": 1200,
+      "completed": true,
+      "bike_status": true
+    },
+    {
+      "id": "iSSFtaQUSGpTMIOjMV7OB",
+      "name": "dineshkumar",
+      "phone": "7075075715",
+      "bike_no": "1",
+      "pickup": "2024-11-23T14:13",
+      "Drop_off": "2024-11-24T14:13",
+      "Total_Amount": 1200,
+      "completed": true,
+      "bike_status": true
+    },
+    {
+      "id": "iSSFtaQUSGpTMIOjMV7OB",
+      "name": "dineshkumar",
+      "phone": "7075075715",
+      "bike_no": "1",
+      "pickup": "2024-11-23T14:13",
+      "Drop_off": "2024-11-24T14:13",
+      "Total_Amount": 1200,
+      "completed": false,
+      "bike_status": false
+    }
+  ]
+}
